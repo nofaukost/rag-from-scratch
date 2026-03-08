@@ -1,0 +1,1 @@
+langchain>=0.1\nopenai>=1.0\nchromadb>=0.4\ntiktoken>=0.5\npython-dotenv>=1.0
